@@ -135,4 +135,3 @@ dependencies:
   - zeromq=4.3.4=h0e60522_1
   - zipp=3.8.0=pyhd8ed1ab_0
   - zlib=1.2.11=h8ffe710_1014
-prefix: C:\Users\bigou\miniconda3\envs\gcp
